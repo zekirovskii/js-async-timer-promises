@@ -9,7 +9,7 @@ Both tasks focus on asynchronous JavaScript fundamentals: timeouts, intervals, a
 ---
 ## 📸 Preview
 
-![Movie Search App Screenshot](./assets/timer.png)
+![Timer & Promises App Screenshot](./assets/timer.png)
 
 ---
 
